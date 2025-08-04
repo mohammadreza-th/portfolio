@@ -1,0 +1,28 @@
+.btn{
+    background: blue;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline;
+    cursor: pointer;
+}
+
+.primary{
+    background: #008cba ;
+
+}
+.secondary{
+background: #e7e7e7;
+color: black;
+}
+
+.success{
+background: #4caf50 ;
+}
+.danger{
+    background: #f44336;
+}
